@@ -22,7 +22,7 @@ This repository contains the code for my personal website, created as a practice
 ## 📥 **How to Use**  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/usk2003/Personal-Website.git  
+   git clone https://github.com/usk2003/PersonalWebpage-BasicHTML.git  
 
 2. Open the `index.html` file in your browser to view the website.  
 
